@@ -1,12 +1,11 @@
 # Site settings
 title: Viktor Jacynycz
-description: Researcher about decentralized technologies
+description: Ansible developer at Stratio BD - PhD student in decentralized technologies
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jacynycz.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Viktor Jacynycz
-user_description: Graduate in software engineering and masters stutudent.Currently working as a research assistant in blockchain and distributed technologies. He has developed smart contracts such as the funding platform Betfunding and currently working on a decentralized science publication system using blockchain. He is willing to end his master’s degree and begin working on his Ph.D. His interests are cryptocurrencies, blockchain, decentralized apps and open source software.
 user_title: Blockchain Researcher
 email: viktor@jacynycz.es
 twitter_username: jacynycz
